@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Front End React Framework<br>Sistem Informasi Manajemen Rumah Sakit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
